@@ -1,6 +1,6 @@
 # ASAP
 Stream live, podcast later, and share game videos – instantly with ASAP (AI Streamer As Podcast)!
-
+( Streaming yet implemented !!! )
 
 
 ## 실행 방법 
